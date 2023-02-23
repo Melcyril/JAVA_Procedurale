@@ -1,0 +1,19 @@
+wayne a lancé 1
+le total est de 1
+gart a lancé 3
+le total est de 4
+wayne a lancé 1
+le total est de 5
+gart a lancé 3
+le total est de 8
+wayne a lancé 1
+le total est de 9
+gart a lancé 2
+le total est de 11
+wayne a lancé 3
+le total est de 14
+gart a lancé 5
+le total est de 19
+wayne a lancé 5
+le total est de 24
+wayne est le gagnant
